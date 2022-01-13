@@ -1,0 +1,13 @@
+.storybook-readme-story {
+  padding: 10px 10px;
+}
+.storybook-readme-content {
+  position: relative;
+  box-sizing: border-box;
+  margin: 16px 16px;
+  padding: 50px 35px;
+  border: 1px dashed rgb(229, 229, 229);
+  background-color: rgb(255, 255, 255);
+  transition: background-color 0.2s ease 0s;
+  text-align: center;
+}
